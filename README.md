@@ -1,3 +1,3 @@
-This project is a online form processing system of computer science department
+This project is am online form processing system of computer science department
 
 Back-end: Django
